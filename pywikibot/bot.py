@@ -452,7 +452,7 @@ def init_handlers() -> None:
 
     _handlers_initialized.append(module_name)
 
-    writelogheader()
+    #writelogheader()
 
 
 def writelogheader() -> None:
